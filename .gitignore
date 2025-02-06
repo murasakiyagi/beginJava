@@ -1,0 +1,15 @@
+**/.DS_Store
+META-INF/
+docs/
+item/
+memo/
+mods/
+
+#src/以下
+src/pi/
+src/rho/
+
+#特定のファイル
+*のコピー.*
+*仕様*
+**/classLoader
